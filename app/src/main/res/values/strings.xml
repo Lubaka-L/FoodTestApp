@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FoodTestApp</string>
+    <string name="error">При загрузке данных произошла ошибка</string>
+</resources>

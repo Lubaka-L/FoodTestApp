@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Меню"
+        android:enabled="true"
+        android:icon="@drawable/food"/>
+    <item
+        android:id="@+id/nav_search"
+        android:title="Профиль"
+        android:enabled="true"
+        android:icon="@drawable/user_ic"/>
+    <item
+        android:id="@+id/nav_radio"
+        android:title="Корзина"
+        android:enabled="true"
+        android:icon="@drawable/bag"/>
+
+</menu>
